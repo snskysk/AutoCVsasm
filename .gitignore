@@ -1,0 +1,12 @@
+*.csv
+*.png
+demo_audio
+demo_video
+devided_scenes
+devided_video
+output
+output_audio
+output_k
+to_split_video
+sd_api.py
+__pycache__
